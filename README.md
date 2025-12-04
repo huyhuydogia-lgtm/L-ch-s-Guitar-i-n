@@ -5,7 +5,7 @@ Dự án xây dựng website giới thiệu quá trình hình thành và phát t
 
 ────── ✧✧✧ ──────
 
-3. Thành viên & Phân công công việc
+2. Thành viên & Phân công công việc
 
 | **Thành viên**         | **Nhiệm vụ**                                                                                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,6 +17,7 @@ Dự án xây dựng website giới thiệu quá trình hình thành và phát t
 ────── ✧✧✧ ──────
 
 3. Cách chạy dự án
+
 Cách 1 — Chạy trực tiếp (GitHub Pages)
 Truy cập link:
 🔗 https://huyhuydogia-lgtm.github.io/web12-12f2-g07-guitardien/
